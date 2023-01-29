@@ -1,4 +1,4 @@
-import { useTodo } from "@/hooks";
+import { useTodo } from '@/hooks';
 
 const Todo = () => {
   const { data, isLoading, isError } = useTodo(10);

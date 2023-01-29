@@ -1,5 +1,5 @@
-import { Routes, Route } from "react-router-dom";
-import { Navigation, Home, Form, Todo } from "@/components";
+import { Routes, Route } from 'react-router-dom';
+import { Navigation, Home, Form, Todo } from '@/components';
 
 const App = () => {
   return (
